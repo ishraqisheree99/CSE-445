@@ -10,6 +10,7 @@ Key features of the website include:
 
 🌐 English-to-Bangla translation support: Users can input English text, which is translated to Bangla before being evaluated for bullying.
 
+## Website demo
 ![Preview of the Website](img/1.png)
-
+![Preview of the Website](img/2.png)
 
