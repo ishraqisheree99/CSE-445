@@ -8,7 +8,7 @@ Key features of the website include:
 
 🔍 Bangla text detection: Determine if a Bangla comment or post is bullying.
 
-🌐 English-to-Bangla translation support: Users can input English text, which is translated to Bangla before being evaluated for bullying.
+🌐 Built-in translation feature to convert Bangla text to English text for classification. 
 
 ## Website demo
 ![Preview of the Website](img/1.png)
